@@ -3,6 +3,7 @@
 |版本|更新人员|更新日期|
 |---|-------|-------|
 |0.01|Shichao Wang|2017.04.25|
+|0.02|Shichao Wang|2017.08.01|
 
 ## 添加一个已有的工作目录至Github
 
@@ -38,8 +39,5 @@
 ## Host Key verification failed
 
 1.`ssh-keygen -t rsa github.com >> ~/.ssh/know_hosts`
-
-
-
 
 ## [Github常见错误](http://www.jianshu.com/p/feb3a14c24ef)
