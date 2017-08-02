@@ -21,6 +21,8 @@
 
 ## Chrome所有的页面崩溃
 
+> 果然作恶的公司的软件到哪里都是作恶
+
 1.进入 `C:\Windows\System32\drivers\`
 
 2.找到 `bd0001.sys,bd002.sys以及其他以bd开头的sys文件`
@@ -30,3 +32,13 @@
 4.重启再打开chrome试试看
 
 5.我是参考的[这里](https://www.zhihu.com/question/29305453)的文章
+
+## Chrome首页被hao123或者2345等等网站劫持
+
+1.我就贴出相关的参考链接，大家自行参考
+
+2.[浏览器启动页被 2345 劫持怎么办？](https://www.zhihu.com/question/23157265)
+
+3.[浏览器首页被篡改无解？来套组合拳绝对能搞定！](http://www.cfan.com.cn/2016/1222/127918.shtml)
+
+4.[求助帖，浏览器主页被 7654 导航篡改](http://tieba.baidu.com/p/4836616459#100335793819l)
