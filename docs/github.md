@@ -15,13 +15,15 @@
 
 4.`git init`
 
-5.`git commit -m "initial commit"`
+5.`git add -A` 
 
-6.回到Github网站，拷贝仓库的地址,可以见截图位置：
+6.`git commit -m "initial commit"`
+
+7.回到Github网站，拷贝仓库的地址,可以见截图位置：
 
 ![11](./images/github-reposity-url.jpg)
 
-7.再回到命令行，输入以下命令：
+8.再回到命令行，输入以下命令：
 
 ``` bash
     git remote add origin 拷贝的仓库地址
@@ -39,5 +41,9 @@
 ## Host Key verification failed
 
 1.`ssh-keygen -t rsa github.com >> ~/.ssh/know_hosts`
+
+## fatal: refusing to merge unrelated histories
+
+[stackoverflow上的解决方法](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories)
 
 ## [Github常见错误](http://www.jianshu.com/p/feb3a14c24ef)
