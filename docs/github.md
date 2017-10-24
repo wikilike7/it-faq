@@ -15,7 +15,7 @@
 
 4.`git init`
 
-5.`git add -A` 
+5.`git add -A`
 
 6.`git commit -m "initial commit"`
 
@@ -44,6 +44,6 @@
 
 ## fatal: refusing to merge unrelated histories
 
-[stackoverflow上的解决方法](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories)
+1. [stackoverflow上的解决方法](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories)
 
 ## [Github常见错误](http://www.jianshu.com/p/feb3a14c24ef)
