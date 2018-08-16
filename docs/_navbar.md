@@ -5,7 +5,7 @@
     - [Skype](/skype)
     - [Word](/word)
     - [Excel](/excel)
-    - [Office安装故障](/office-installtion-error)
+    - [Office install & uninstall](/Office_installing_uninstalling)
 
 - VPN
     - [VPN]()
