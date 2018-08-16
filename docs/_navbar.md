@@ -1,4 +1,4 @@
-- [首页](/)
+- [Home](/)
 
 - Office
     - [Outlook](/outlook)
@@ -8,7 +8,7 @@
     - [Office安装故障](/office-installtion-error)
 
 - VPN
-    - [VPN](/vpn)
+    - [VPN]()
 
 - Windows
     - [Bitlocker](/bitlocker)
