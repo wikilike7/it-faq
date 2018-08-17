@@ -47,4 +47,40 @@
 
 1. [stackoverflow上的解决方法](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories)
 
+## Git常见命令
+
+1. 分支
+    1. `git checkout -b <branch-name>`  //Creating branch and switch
+    2. `git branch <branch-name>`  //creating branch
+
+2. Basic setting
+    ```
+    git config --global user.name "xxx"
+    git config --global user.email "yyy"
+    git config --global core.editor code  //code means Visual Studio Code
+    ```
+
+3. Basic knowledge
+    1. workspace
+        1. the folder store your code, like "c:\workspace"
+   
+    2. stage
+        1. when you use `git add .`, it means files added to stage
+
+    3. repository
+        1. after use `git commit -m "xxx"` the files added to local repository to push
+
+    4. remote
+        1. after use `git push origin master` files upload to remote repository
+
+
+
+
+## What is pull
+is actually equivalent to the following two steps:
+```
+git fetch
+git merge origin/master
+```
+
 ## [Github常见错误](http://www.jianshu.com/p/feb3a14c24ef)
