@@ -5,6 +5,7 @@
 |0.01|Shichao Wang|2017.04.25|
 |0.02|Shichao Wang|2017.08.01|
 |0.03|Shichao Wang|2017.10.24|
+|0.04|Shichao Wang|2018.08.17|
 
 ## 添加一个已有的工作目录至Github
 
