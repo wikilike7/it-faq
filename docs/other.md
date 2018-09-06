@@ -29,3 +29,17 @@
 1. 进入PE
 2. 使用`bcdedit`修改分区引导记录的目标分区为启动分区(即Windows所在的分区)
 3. 重启即可恢复
+
+## 任务管理器无法打开
+
+![task-manager-error](images/task-manager-error.png)
+
+1. 如上图所示，实际上我的系统是 `Windows 10`，这是从网上借来的 `Windows 7` 的图，但是错误是一样的，不影响。
+2. 我的问题是由于使用 `Process Explorer` 来替代Task manager后感觉电脑很慢，所以你删除了前者，从而导致Task manager无法打开
+3. 下面是解决问题的步骤：
+    1. 打开注册表，定位这个路径：`HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\taskmgr.exe`
+    2. 删除这个这个路径的 `debugger` 值
+4. 重新打开任务管理器
+
+
+
