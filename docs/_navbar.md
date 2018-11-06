@@ -1,5 +1,3 @@
-- [- Network](#network)
-
 - Office
     - [Outlook](/outlook)
     - [Skype](/skype)
